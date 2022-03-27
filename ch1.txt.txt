@@ -1,1 +1,1 @@
-add ch 1
+add ch 1 3
